@@ -1,3 +1,5 @@
 public class Latihan3 {
-    
+    public static void main(String[] args) {
+        
+    }
 }
