@@ -25,7 +25,7 @@ public class Latihan1 {
         
         int kehadiran =(hadir * 100 / total_pertemuan);
         
-        if (nilai_akhir >= 80 & kehadiran >= 75) {
+        if (nilai_akhir >= 80 && kehadiran >= 75) {
             System.out.println("Nilai : "+ nilai_akhir);
             System.out.println("Grade A");
         }else if (nilai_akhir >= 70) {
